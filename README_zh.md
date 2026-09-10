@@ -383,6 +383,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| AI Novel Writer | GitHub 2026（开源桌面应用） | 2026-09 | - | [项目](https://www.orz.md/ai-novel-writer/) | [代码](https://github.com/EthanYoQ/AI-Novel-Writer) | - | 长篇写作, 规划, 一致性, 开源 |
 | FireRed-OpenStoryline | GitHub 2026 (Open-source repository) | 2026-01 | - | [Project](https://github.com/FireRedTeam/FireRed-OpenStoryline) | [Code](https://github.com/FireRedTeam/FireRed-OpenStoryline) | - | tooling, open-source |
 | ReasoningNCP (Official Repository) | GitHub 2025 (Open-source repository) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.22828) | [Project](https://github.com/Alex-Gurung/ReasoningNCP) | [Code](https://github.com/Alex-Gurung/ReasoningNCP) | - | tooling, open-source |
 | SEED-Story (Official Repository) | GitHub 2024 (Open-source repository) | 2024-07 | [arXiv](https://arxiv.org/abs/2407.08683) | [Project](https://github.com/TencentARC/SEED-Story) | [Code](https://github.com/TencentARC/SEED-Story) | - | tooling, open-source |
